@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1440309528 source:d:\contest\uva\11195\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<vector>
+	<map>
+	<set>
+	<string>
+	<cmath>
+	<cstdlib>
+	<cctype>
+	<algorithm>
+	<queue>
+	<sstream>
+	<stack>
+	<list>
+	<bitset>
+	<iomanip>
+	<fstream>
+	<ctime>
+
