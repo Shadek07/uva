@@ -1,1 +1,1 @@
-Solutins solved in UVA
+Solutins solved in UVA according to category
