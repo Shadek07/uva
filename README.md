@@ -1,1 +1,1 @@
-Solutins solved in UVA
+Solutions solved in UVA
